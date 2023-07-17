@@ -27,10 +27,5 @@
   <a href = "mailto:mateus_almeidajesus@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="(https://www.linkedin.com/in/mateus-almeida-21210a232/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mateusalj}/count.svg" /></p> 
-<br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
