@@ -4,8 +4,9 @@
 
 <div align="center">
 <a href="https://github.com/mateusalj">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalj&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mateusalj&layout=compact&langs_count=8&theme=algolia"/>
 </div>
+
 
 ### Main skills:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
