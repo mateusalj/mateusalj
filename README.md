@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Almeida;I'm+24+years+old;I+from+Brasil,+Salvador,+BA;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B22222&size=30&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Mateus+Almeida;I'm+25+years+old;I+from+Brasil,+Salvador,+BA;I+study+systems+development+at+Senai;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="left">  
-<img width="300px" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalj&theme=transparent"/>
+<div align="center">
+<a href="https://github.com/mateusalj">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalj&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ### Main skills:
@@ -27,5 +28,7 @@
   <a href = "mailto:mateus_almeidajesus@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="(https://www.linkedin.com/in/mateus-almeida-21210a232/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+![Snake animation](https://github.com/mateusalj/mateusalj/blob/output/github-contribution-grid-snake.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
