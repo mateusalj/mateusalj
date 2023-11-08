@@ -29,6 +29,6 @@
   <a href="(https://www.linkedin.com/in/mateus-almeida-21210a232/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/mateusalj/mateusalj/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/mateusalj/mateusalj/blob/output/github-contribution-grid-snake2.svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
