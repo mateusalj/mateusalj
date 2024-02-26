@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-I'm Mateus Almeida, a 25-year-old aspiring developer from Salvador, Brazil. Currently, I'm studying systems development at Senai, and I'm passionate about building web applications.
+Sou Mateus Almeida, um desenvolvedor de 25 anos de Salvador, Bahia-Brasil. Formado em Técnico de Desenvolvimento de Sistemas Pelo SENAI, atualmente estou cursando ensino superior em Análise e Desenvolvimento de Sistemas e sou apaixonado por tecnoclogia.
 
 ## About Me
 
-- 📚 I'm constantly learning and expanding my skill set.
-- 💻 Main skills: HTML5, CSS3, JavaScript, Java.
-- 🚀 Currently exploring: Python, Node.js, React Native.
+- 📚 Estou constantemente aprendendo e expandindo meu conjunto de habilidades.
+- 💻 Habilidades principais: HTML5, CSS3, JavaScript, Java.
+- 🚀Atualmente explorando: Python, Node.js, React Native.
 
 ## GitHub Stats
 
